@@ -1,8 +1,5 @@
 import React from "react";
 import WorkCard from "./workcard";
-import Propic from './Propic.jpg';
-import paymentgateawaypic from "./pgaway.png"
-import ciss from "./cis.png"
 import bibu from "./bibu.png"
 
 const WebsitePage = () => {
