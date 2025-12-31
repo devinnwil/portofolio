@@ -65,6 +65,7 @@ const Tabs3 = () => {
         </div>
         <div
           ref={tabContentRefs.education}
+          
           style={{ display: activeTab === 'education' ? 'block' : 'none' }}
         >
           <Educationpg/>
